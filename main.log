@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  6 NOV 2022 16:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  6 NOV 2022 17:42
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1268,51 +1268,13 @@ Package translations Info: loading dictionary `translations-basic-dictionary' fo
 Preview: Fontsize 10pt
 Preview: PDFoutput 1
 \c@lstlisting=\count367
-) (title-page-table.tex
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5.
- (C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5.
-
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 5.
-
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 5.
-
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 5.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 5.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 5.
-<main-pics.pdf, id=2, page=1, 423.5825pt x 423.5825pt>
+) (title-page.tex
+<main-pics.pdf, id=2, page=1, 437.635pt x 438.63875pt>
 File: main-pics.pdf Graphic file (type pdf)
 <use main-pics.pdf, page 1>
-Package pdftex.def Info: main-pics.pdf , page1 used on input line 10.
-(pdftex.def)             Requested size: 423.58147pt x 423.58147pt.
-
-Overfull \vbox (4.27747pt too high) detected at line 10
- []
-
-) (wprowadzenie.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6.
- (C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 30.
-
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [1
+Package pdftex.def Info: main-pics.pdf , page1 used on input line 17.
+(pdftex.def)             Requested size: 437.63393pt x 438.63766pt.
+ [1
 Non-PDF special ignored!
 <special> header=pstricks.pro
 Non-PDF special ignored!
@@ -1348,158 +1310,85 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
 Non-PDF special ignored!
 <special> ps:0.8 setlinewidth 0 setgray
-{C:/Users/Languzda/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./main-pics.pdf>]
-Underfull \hbox (badness 4341) in paragraph at lines 36--37
-[]\T1/lmr/m/n/10 Zarz¡dzanie za-in-sta-lo-wa-nymi pa-kie-tami MiK-TeX mo»-liwe jest (w now-szych wer-sjach) za
- []
+{C:/Users/Languzda/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./main-pics.pdf>]) (title-page-table.tex
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5.
 
+(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5.
 
-Underfull \hbox (badness 1616) in paragraph at lines 44--46
-\T1/lmr/m/n/10 Podany przy-kªad do-ku-mentu ce-lem po-praw-nej kom-pi-la-cji []\T1/lmr/bx/n/10 WY-MAGA[] \T1/lmr/m/n/10 
-mo-dy-fi-ka-cji pa-ra-me-trów
- []
+(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 5.
 
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
+(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
-File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
-File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
-File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
-File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
-File: lstlang2.sty 2020/03/24 1.8d listings language file
-)
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
-File: lstlang3.sty 2020/03/24 1.8d listings language file
-)
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 5.
+
+(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 48.
+(Font)              <10> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 48.
-<img/conf.png, id=14, 466.74374pt x 478.78876pt>
-File: img/conf.png Graphic file (type png)
-<use img/conf.png>
-Package pdftex.def Info: img/conf.png  used on input line 54.
-(pdftex.def)             Requested size: 466.7426pt x 478.78758pt.
-<img/wprowadzenie.png, id=16, 564.9105pt x 131.89275pt>
-File: img/wprowadzenie.png Graphic file (type png)
-<use img/wprowadzenie.png>
-Package pdftex.def Info: img/wprowadzenie.png  used on input line 64.
-(pdftex.def)             Requested size: 564.90912pt x 131.89241pt.
-) (listy.tex) [2] [3 <./img/conf.png> <./img/wprowadzenie.png>] (rysunki.tex
-<main-pics.pdf, id=28, page=2, 437.635pt x 438.63875pt>
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 5.
+<main-pics.pdf, id=11, page=2, 423.5825pt x 423.5825pt>
 File: main-pics.pdf Graphic file (type pdf)
 <use main-pics.pdf, page 2>
-Package pdftex.def Info: main-pics.pdf , page2 used on input line 5.
-(pdftex.def)             Requested size: 437.63393pt x 438.63766pt.
-<img/PP-PUT_logo_pelne.png, id=29, 436.63126pt x 437.635pt>
-File: img/PP-PUT_logo_pelne.png Graphic file (type png)
-<use img/PP-PUT_logo_pelne.png>
-Package pdftex.def Info: img/PP-PUT_logo_pelne.png  used on input line 15.
-(pdftex.def)             Requested size: 436.63019pt x 437.63393pt.
-<img/PP-PUT_logo_pelne.jpg, id=30, 442.78099pt x 443.79887pt>
-File: img/PP-PUT_logo_pelne.jpg Graphic file (type jpg)
-<use img/PP-PUT_logo_pelne.jpg>
-Package pdftex.def Info: img/PP-PUT_logo_pelne.jpg  used on input line 25.
-(pdftex.def)             Requested size: 442.7799pt x 443.79779pt.
-<img/PP-PUT_logo_pelne.pdf, id=31, 455.2441pt x 455.2441pt>
-File: img/PP-PUT_logo_pelne.pdf Graphic file (type pdf)
-<use img/PP-PUT_logo_pelne.pdf>
-Package pdftex.def Info: img/PP-PUT_logo_pelne.pdf  used on input line 35.
-(pdftex.def)             Requested size: 455.24298pt x 455.24298pt.
-) [4
+Package pdftex.def Info: main-pics.pdf , page2 used on input line 10.
+(pdftex.def)             Requested size: 423.58147pt x 423.58147pt.
 
- <./main-pics.pdf> <./img/PP-PUT_logo_pelne.png>] [5 <./img/PP-PUT_logo_pelne.jpg> <./img/PP-PUT_logo_pelne.pdf>] (formu
-ly.tex
-Underfull \hbox (badness 2088) in paragraph at lines 57--58
-\T1/lmr/m/n/10 Przed sªo-wem klu-czo-wym \T1/lmr/m/it/10 ma-trix \T1/lmr/m/n/10 na-le»y umie-±ci¢ li-ter¦ od-po-wia-da-j
-¡c¡ ro-dza-jowi wy-ma-ga-nych
- []
-
-[6
-
-]) [7] (tabele.tex
-Overfull \hbox (30.00461pt too wide) in paragraph at lines 6--7
-[]$\T1/lmtt/m/n/10 https : / / texblog . org / 2017 / 12 / 12 / color-[]table-[]series-[]part-[]1-[]introduction-[]color
-tbl-[]package/$ 
+Overfull \vbox (4.27747pt too high) detected at line 10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-[]|\T1/lmr/m/n/10 wi¦ksza, ste-ro-wana sze-ro-ko±¢
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/lmr/bx/n/10 Silnik elek-tryczny. Siªy: Lo-rentz'a,
  []
 
-) [8
+) (wprowadzenie.tex
+Underfull \hbox (badness 1533) in paragraph at lines 7--13
+\T1/lmr/m/n/10 syn-tezy struk-tury sil-nika ba-zu-j¡c na ana-li-zie zja-wisk fi-zycz-nych. Kwe-stia iden-ty-fi-ka-cji wa
+r-to-±ci
+ []
 
-] (listings.tex (C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 19.
+(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-) [9
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 20.
 
-]
-(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-) (src/matlab-example.m [10])) [11]
-(bibliografia.tex [12
+(C:\Users\Languzda\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) [1 <./main-pics.pdf>] (zastosowania.tex)
+(zamodelowanySilnik.tex) [2
 
-] (main.bbl
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en-US'. Using the pattern for
-** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en-US'. Using the pattern for
-** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `pl'. Using the pattern for
-** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en'. Using the pattern for
-** the default language instead.
-)) [13] (main.aux) ) 
+] (bibliografia.tex [3
+
+] (main.bbl)) [4] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 23504 strings out of 475385
- 464348 string characters out of 2775491
- 1109945 words of memory out of 3000000
- 44355 multiletter control sequences out of 15000+600000
- 521317 words of font info for 58 fonts, out of 8000000 for 9000
+ 21394 strings out of 475385
+ 436811 string characters out of 2775491
+ 798142 words of memory out of 3000000
+ 42299 multiletter control sequences out of 15000+600000
+ 521652 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 136i,16n,136p,682b,2429s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Users/Languzda
-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/enc/d
-vips/lm/lm-mathit.enc}{C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Languz
-da/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/enc
-/dvips/lm/lm-ts1.enc}<C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Languzd
-a/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/lm/lmex10.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/L
-anguzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi5.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/lm/lmmi7.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/User
-s/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/lm/lmr7.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Us
-ers/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Languzda/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><
-C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt8.pfb>
-Output written on main.pdf (13 pages, 598011 bytes).
+ 136i,16n,136p,682b,521s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/La
+nguzda/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users/Languzda/AppData/Local/Programs/MiKTeX/font
+s/type1/public/lm/lmb10.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/
+Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/lm/lmr10.pfb><C:/Users/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Us
+ers/Languzda/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Languzda/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (5 pages, 240233 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

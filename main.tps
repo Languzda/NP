@@ -18,7 +18,7 @@ Document=main.tex
 
 [Frame0_View0,0]
 TopLine=0
-Cursor=484
+Cursor=157
 
 [Frame1]
 Flags=0
@@ -54,7 +54,7 @@ Document=wprowadzenie.tex
 
 [Frame2_View0,0]
 TopLine=0
-Cursor=0
+Cursor=688
 
 [Frame3]
 Flags=0
@@ -71,8 +71,8 @@ Class=LaTeXView
 Document=rysunki.tex
 
 [Frame3_View0,0]
-TopLine=13
-Cursor=1042
+TopLine=0
+Cursor=401
 
 [Frame4]
 Flags=0
@@ -126,9 +126,27 @@ Document=title-page-table.tex
 
 [Frame6_View0,0]
 TopLine=0
-Cursor=1019
+Cursor=32
+
+[Frame7]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=26
+NormalPos.right=1562
+NormalPos.bottom=539
+Class=LaTeXView
+Document=bibliografia.tex
+
+[Frame7_View0,0]
+TopLine=0
+Cursor=435
 
 [SessionInfo]
-FrameCount=7
+FrameCount=8
 ActiveFrame=6
 
