@@ -1,0 +1,26 @@
+Materiały źródłowe dot.formatowania tabel:\cite{noauthor_multi-column_nodate}, \cite{noauthor_verbatim_nodate} oraz:
+
+\begin{itemize}
+	\item \url{http://ftp.icm.edu.pl/packages/GUST/bulletin/19/sapij03b.pdf}
+	\item \url{https://sunsite.icm.edu.pl/pub/CTAN/macros/latex/contrib/colortbl/colortbl.pdf}
+	\item \url{https://texblog.org/2017/12/12/color-table-series-part-1-introduction-colortbl-package/}
+\end{itemize}
+
+
+\begin{table}[ht]
+\centering
+\caption{Przykładowy opis tabeli}
+\label{tab:example}
+%\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|c|p{5cm}|}
+\hline
+\rowcolor{gray}
+\multicolumn{3}{|c|}{\textcolor[rgb]{1,1,1}{Scalenie trzech kolumn}}\\
+\hline
+NL27WZ16DFT2G   & FODM8071   & większa, sterowana szerokość kolumny  \\ 
+\hline
+\end{tabular}%
+%}
+\end{table}	
+
+Do tabel jak tej powyższej \ref{tab:example} odwołujemy się przez słowo kluczowe \textit{ref} z numerem pola w opcji \textit{label}.

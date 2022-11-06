@@ -1,0 +1,26 @@
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Wprowadzenie}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Cel opracowania}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Narz\IeC {\k e}dzia i \IeC {\'z}r\IeC {\'o}d\IeC {\l }a}{2}{}%
+\contentsline {subsection}{\numberline {1.3}Instalacja}{3}{}%
+\contentsline {subsection}{\numberline {1.4}Ustawienia pocz\IeC {\k a}tkowe}{3}{}%
+\contentsline {section}{\numberline {2}Elementy dokumentu}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Listy}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Lista punktowa}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Lista numeryczna}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Rysunki}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Rysunek EPS}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Rysunek PNG}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Rysunek JPG}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}Rysunek PDF}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Formu\IeC {\l }y}{4}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Prosta formu\IeC {\l }a}{4}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Z\IeC {\l }o\IeC {\.z}ona formu\IeC {\l }a}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Opisy w formule}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Uk\IeC {\l }ady r\IeC {\'o}wna\IeC {\'n}}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.5}Macierze}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Tabele}{7}{}%
+\contentsline {subsection}{\numberline {2.5}Listingi}{7}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}J\IeC {\k e}zyk C}{7}{}%
+\contentsline {subsubsection}{\numberline {2.5.2}J\IeC {\k e}zyk skryptowy Matlab}{8}{}%
+\contentsline {subsection}{\numberline {2.6}Bibliografia}{9}{}%

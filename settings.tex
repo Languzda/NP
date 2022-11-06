@@ -1,0 +1,101 @@
+\usepackage{times}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+\usepackage{lmodern} %Type1-font for non-english texts and characters
+\usepackage{setspace}
+
+\usepackage[cmex10]{amsmath}
+
+%% Packages for Graphics & Figures %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\usepackage{bmpsize}
+
+\usepackage{graphicx} %%For loading graphic files
+\usepackage[pdf]{pstricks}
+\usepackage{pst-all}
+\usepackage{moredefs}
+%\usepackage{auto-pst-pdf}
+%\usepackage{auto-pst-pdf}
+\usepackage[crop=off]{auto-pst-pdf}
+
+\usepackage{fancyhdr}
+\usepackage{url}
+\usepackage{float}
+\usepackage{color}
+\usepackage{xcolor}
+
+\usepackage{subfigure}
+\usepackage{multirow}
+
+%\usepackage{epstopdf}
+\definecolor{light-gray}{gray}{0.4}
+\definecolor{mauve}{rgb}{0.88, 0.69, 1.0}
+\definecolor{pakistangreen}{rgb}{0.0, 0.4, 0.0}
+\definecolor{pearl}{rgb}{0.94, 0.92, 0.84}
+\definecolor{whitesmoke}{rgb}{0.96, 0.96, 0.96}
+\definecolor{gray-pp}{rgb}{0.13, 0.6, 0.82}
+
+\usepackage{colortbl}
+\usepackage{listings}
+\lstset{
+  basicstyle=\footnotesize\ttfamily,
+  columns=fullflexible,
+  frame=single,
+  breaklines=true,
+	numbers=left, stepnumber=2, numbersep=5pt,
+	numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{pakistangreen},
+  stringstyle=\color{mauve},
+	backgroundcolor = \color{whitesmoke},
+	breakatwhitespace=true,
+	showspaces=false,                % show spaces everywhere adding particular underscores; it overrides 'showstringspaces'
+  showstringspaces=false,          % underline spaces within strings only
+  showtabs=false,                  % show tabs within strings adding particular underscores
+  postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}
+}
+
+
+
+%\pagestyle{fancy}
+%\usepackage[a4paper,left=20mm,top=20mm,bottom=10mm,right=10mm]{geometry} 
+%\setlength\headheight{22pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+%\rule[0.2cm]{\textwidth}{0.5pt} 
+%\cfoot{ \textrm{\textbf{\thepage}}}  
+
+%\pagestyle{fancy}
+
+%\fancyhead[LE]{ \textcolor{light-gray}{\leftmark}}
+%\fancyhead[RO]{\textcolor{light-gray}{\rightmark}}
+\cfoot{-~\thepage \textcolor{light-gray}{~| Strona~-}}
+
+\hyphenpenalty=10000		% nie dziel wyrazów zbyt często
+\clubpenalty=10000			% kara za sierotki
+\widowpenalty=10000			% nie pozostawiaj wdów
+\brokenpenalty=10000		% nie dziel wyrazów między stronami
+\exhyphenpenalty=999999		% nie dziel słów z myślnikiem
+\righthyphenmin=3			% dziel minimum 3 litery
+
+\tolerance=4500
+\pretolerance=250
+\hfuzz=1.5pt
+\hbadness=1450
+
+\sloppy						% umacnia pozycję prawego marginesu
+
+\setlength{\textwidth}{\paperwidth}
+\addtolength{\textwidth}{-5cm}
+\setlength{\textheight}{\paperheight}
+\addtolength{\textheight}{-5cm}
+\setlength{\oddsidemargin}{0cm}
+\setlength{\evensidemargin}{0cm}
+\topmargin -1.25cm
+\footskip 1.4cm
+
+\linespread{1.3}
+
+\begin{document}
+\raggedbottom 
+%\input{hypernation}

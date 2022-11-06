@@ -1,0 +1,92 @@
+\subsubsection{Prosta formuła}
+
+\begin{equation}
+	A = \frac{t_H - t_L}{t_H+t_L} \cdot 100
+\label{eq:asym}
+\end{equation}
+
+\subsubsection{Złożona formuła}
+\begin{equation} 
+S(\omega)=1.466\, H_s^2 \,  \frac{\omega_0^5}{\omega^6}  \, e^{\left[-3^{\omega/(\omega_0)}\right]^2}
+\label{eq:S}
+\end{equation}
+
+\begin{equation} 
+\lim_{x\to 0}{\frac{e^x-1}{2x}}
+ \overset{\left[\frac{0}{0}\right]}{\underset{\mathrm{H}}{=}}
+ \lim_{x\to 0}{\frac{e^x}{2}}={\frac{1}{2}}
+\label{eq:lim}
+\end{equation}
+
+\subsubsection{Opisy w formule}
+
+\begin{equation} 
+z = \overbrace{
+   \underbrace{x}_\text{real} + i
+   \underbrace{y}_\text{imaginary}
+  }^\text{complex number}
+	\label{eq:CN}
+\end{equation}
+
+\subsubsection{Układy równań}
+
+Na podstawie: \cite{noauthor_latexadvanced_nodate},\cite{noauthor_numbering_nodate}.
+
+\begin{equation} 
+\begin{aligned}[b]
+ f(x)  &= a x^2+b x +c   &   g(x)  &= d x^3 \\
+ f'(x) &= 2 a x +b       &   g'(x) &= 3 d x^2
+\end{aligned}
+	\label{eq:aligned}
+\end{equation}
+
+Zaczerpnięto z \cite{noauthor_latex_nodate}.
+
+\begin{equation} 
+y = \left\{ \begin{array}{ll}
+a & \textrm{gdy $d>c$}\\
+b+x & \textrm{gdy $d=c$}\\
+l & \textrm{gdy $ d < c $}
+\end{array} \right.
+	\label{eq:eqnarray}
+\end{equation}
+
+
+\subsubsection{Macierze}
+
+Przed słowem kluczowym \textit{matrix} należy umieścić literę odpowiadającą rodzajowi wymaganych znaczników \cite{noauthor_how_nodate}:
+\begin{itemize}
+	\item \textbf{p} -- nawiasy okrągłe
+	\item \textbf{b} -- nawiasy kwadratowe
+	\item \textbf{v} -- pionowe linie (wyznacznik)
+	\item \textbf{B} -- klamry
+	\item \textbf{V} -- podwójne pionowe linie
+\end{itemize}
+
+
+Przykład (\textit{matrix}):
+
+\begin{equation}
+A_{m,n} = 
+\begin{matrix}
+a_{1,1} & a_{1,2} & \cdots & a_{1,n} \\
+a_{2,1} & a_{2,2} & \cdots & a_{2,n} \\
+\vdots  & \vdots  & \ddots & \vdots  \\
+a_{m,1} & a_{m,2} & \cdots & a_{m,n} 
+\end{matrix}
+\end{equation}
+
+
+Przykład (\textit{pmatrix}):
+
+\begin{equation}
+A_{m,n} = 
+\begin{pmatrix}
+a_{1,1} & a_{1,2} & \cdots & a_{1,n} \\
+a_{2,1} & a_{2,2} & \cdots & a_{2,n} \\
+\vdots  & \vdots  & \ddots & \vdots  \\
+a_{m,1} & a_{m,2} & \cdots & a_{m,n} 
+\end{pmatrix}
+\end{equation}
+
+
